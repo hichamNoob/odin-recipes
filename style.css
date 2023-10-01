@@ -7,6 +7,7 @@ h1{
 
 body {
     background-color:blue;
+ 
 
 }
 
@@ -20,3 +21,61 @@ img{
     width:200px;
     height:200px;
 }
+
+.main{
+display: inline-block;
+border: 2px solid red;
+padding: auto;
+background-color:pink;
+box-sizing: content-box;
+
+}
+.p1burger{
+padding: 0 8px 8px 8px;
+background-color: pink;
+border:2px solid red;
+margin:2px;
+width: 500px;
+}
+.p2burger{
+padding: 0 8px 8px 8px;
+background-color: pink;
+border:2px solid red;
+margin:4px;
+width: 500px;
+}
+.p3burger{
+    height:auto;
+    padding: 0 8px 8px 8px;
+    background-color: pink;
+    border:2px solid red;
+    margin:4px;
+    width: 600px;
+    }
+    .p1lasagna{
+
+        height:auto;
+        padding: 0 8px 8px 8px;
+        background-color: pink;
+        border:2px solid red;
+        margin:4px;
+        width: 600px;
+
+
+    }
+    .p1pizza{
+        height:auto;
+        padding: 0 8px 8px 8px;
+        background-color: pink;
+        border:2px solid red;
+        margin:4px;
+        width: 600px;
+
+
+    }
+
+
+
+
+
+
